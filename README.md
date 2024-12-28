@@ -26,16 +26,16 @@ O envio de e-mails pode ser utilizado para confirmar ações no sistema, como co
 
 
 # Como Usar 
-## Requisitos
 <br></br>
+## Requisitos
 **PHP 7.4 ou superior**
 **Composer**
 **Conta de e-mail (Gmail, por exemplo) configurada com acesso SMTP**
 **Variáveis de ambiente configuradas para proteger as credenciais**<br></br>
 
 # Passos para Instalar
-## Clone o Repositório
 <br></br>
+## Clone o Repositório
 ### Clone o repositório do projeto para sua máquina local:
 
 ```bash
