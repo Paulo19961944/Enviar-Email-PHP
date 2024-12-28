@@ -26,17 +26,16 @@ O envio de e-mails pode ser utilizado para confirmar ações no sistema, como co
 
 
 # Como Usar 
-<br></br>
 ## Requisitos
+<br></br>
 **PHP 7.4 ou superior**
 **Composer**
 **Conta de e-mail (Gmail, por exemplo) configurada com acesso SMTP**
 **Variáveis de ambiente configuradas para proteger as credenciais**<br></br>
 
 # Passos para Instalar
-<br></br>
 ## Clone o Repositório
-
+<br></br>
 ### Clone o repositório do projeto para sua máquina local:
 
 ```bash
@@ -45,13 +44,14 @@ cd enviar-email
 Instalar Dependências
 ```
 
+<br></br>
 ### Use o Composer para instalar as dependências necessárias:
 
 ```bash
-Copiar código
 composer install
 Configuração do Arquivo .env
 ```
+<br></br>
 
 ### Crie um arquivo .env na raiz do projeto com as variáveis de ambiente necessárias:
 
@@ -63,9 +63,12 @@ MAIL_PORT=587
 MAIL_ENCRYPTION=tls
 MAIL_TO=destinatario@exemplo.com
 ```
+<br></br>
 
 ### Configurar o Servidor SMTP
 Certifique-se de que sua conta de e-mail (como o Gmail) tenha acesso ao SMTP ativado. Caso esteja usando o Gmail, você precisará gerar uma senha de aplicativo para autenticação.<br></br>
+<br></br>
+
 
 ### Enviar o E-mail
 
