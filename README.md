@@ -5,10 +5,10 @@ Este projeto é uma implementação simples de envio de e-mails usando PHP e a b
 O objetivo deste projeto é demonstrar a utilização do SwiftMailer, uma poderosa biblioteca PHP para envio de e-mails, com a configuração de um servidor SMTP (ex: Gmail) e a integração de variáveis de ambiente para proteger credenciais como e-mail e senha.<br></br>
 
 # Funcionalidades
-### Envio de e-mails: O projeto permite o envio de e-mails personalizados para um ou mais destinatários usando um servidor SMTP.
-### Autenticação SMTP segura: Utiliza variáveis de ambiente para manter as credenciais de e-mail e senha protegidas, evitando que informações sensíveis fiquem expostas no código-fonte.
-### Personalização de e-mail: O usuário pode enviar e-mails com diferentes assuntos e corpo de mensagem via um formulário simples.
-### Configuração do servidor de e-mail: Configuração simples e segura de um servidor SMTP, como o Gmail, para enviar e-mails.<br></br>
+**Envio de e-mails:** O projeto permite o envio de e-mails personalizados para um ou mais destinatários usando um servidor SMTP.
+**Autenticação SMTP segura:** Utiliza variáveis de ambiente para manter as credenciais de e-mail e senha protegidas, evitando que informações sensíveis fiquem expostas no código-fonte.
+**Personalização de e-mail:** O usuário pode enviar e-mails com diferentes assuntos e corpo de mensagem via um formulário simples.
+**Configuração do servidor de e-mail:** Configuração simples e segura de um servidor SMTP, como o Gmail, para enviar e-mails.<br></br>
 
 # Aplicações Práticas
 Este projeto tem várias aplicações práticas em diferentes contextos:<br></br>
@@ -27,10 +27,10 @@ O envio de e-mails pode ser utilizado para confirmar ações no sistema, como co
 
 # Como Usar
 ## Requisitos
-### PHP 7.4 ou superior
-### Composer
-### Conta de e-mail (Gmail, por exemplo) configurada com acesso SMTP
-### Variáveis de ambiente configuradas para proteger as credenciais<br></br>
+**PHP 7.4 ou superior**
+**Composer**
+**Conta de e-mail (Gmail, por exemplo) configurada com acesso SMTP**
+**Variáveis de ambiente configuradas para proteger as credenciais**<br></br>
 
 # Passos para Instalar
 ## Clone o Repositório
