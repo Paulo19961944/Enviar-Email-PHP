@@ -25,7 +25,8 @@ Em sistemas de autenticação, como sites de e-commerce ou plataformas de login,
 O envio de e-mails pode ser utilizado para confirmar ações no sistema, como confirmações de inscrição, ativação de conta, ou verificação de identidade.<br></br>
 
 
-# Como Usar
+# Como Usar 
+<br></br>
 ## Requisitos
 **PHP 7.4 ou superior**
 **Composer**
@@ -33,6 +34,7 @@ O envio de e-mails pode ser utilizado para confirmar ações no sistema, como co
 **Variáveis de ambiente configuradas para proteger as credenciais**<br></br>
 
 # Passos para Instalar
+<br></br>
 ## Clone o Repositório
 
 ### Clone o repositório do projeto para sua máquina local:
