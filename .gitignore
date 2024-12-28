@@ -1,0 +1,40 @@
+# Ignorar dependências do Composer
+/vendor/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários criados pelo editor (ex: VSCode, Sublime, etc.)
+.vscode/
+.idea/
+
+# Ignorar arquivos de cache
+/cache/
+
+# Ignorar arquivos de configuração locais do ambiente (ex: variáveis de ambiente)
+.env
+.env.local
+.env.*.local
+
+# Ignorar arquivos de banco de dados e backups
+*.sqlite
+*.sql
+*.sql.gz
+
+# Ignorar pastas de build ou distribuição
+/dist/
+/build/
+/node_modules/
+
+# Ignorar arquivos de sistema operacional (gerados por macOS ou Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração do Composer (por exemplo, autoload do Composer, se preferir não versionar)
+composer.lock
+composer.phar
+
+# Ignorar arquivos temporários de editores de texto (ex: vim, emacs, etc.)
+*.swp
+*.swo
+*~
